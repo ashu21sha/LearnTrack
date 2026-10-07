@@ -56,4 +56,4 @@ Without inheritance, we would need to duplicate the common fields inside
 Student.
 
 With inheritance, the common functionality is defined once in Person
-and reused by Student.
+and reused by Student. 

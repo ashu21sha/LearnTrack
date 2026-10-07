@@ -58,4 +58,5 @@ public class CourseService {
         Course course = findCourseById(id);
         course.setActive(false);
     }
+
 }
