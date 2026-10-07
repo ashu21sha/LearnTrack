@@ -32,6 +32,7 @@ After successful compilation:
 
 java -cp out com.airtribe.learntrack.ui.Main
 
+
 Class Diagram
 ┌─────────────────────┐
 │       Person        │

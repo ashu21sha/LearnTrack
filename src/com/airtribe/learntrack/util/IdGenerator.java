@@ -21,4 +21,5 @@ public class IdGenerator {
     public static int getNextEnrollmentId() {
         return ++enrollmentIdCounter;
     }
+
 }

@@ -17,4 +17,4 @@ Hello World Program Run:-
 3. System.out.println("Hello World!")
    a) Prints Hello World to the console.
    b) System.out represents the standard output.
-   c) println() prints the text and moves to the next line.
+   c) println() prints the text and moves to the next line. 
